@@ -1,0 +1,32 @@
+h1 {
+    font-size: 32px;
+    font-style: Arial;
+    text-align: center;
+    
+
+}
+
+p {
+    font-size: 28px;
+    font-style: Arial;
+    text-align: center;  
+    
+}
+
+.paragraph-2 {
+    font-size: 28px;
+    text-align: center;
+    font-style: Arial;
+    
+}
+
+.paragraph-3 {
+    font-size: 28px;
+    text-align: center;
+    font-style: Arial; 
+   
+}
+
+body {
+    background-color: beige;
+}
